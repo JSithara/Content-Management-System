@@ -71,7 +71,7 @@ VII. Location
 
 **Normalization**:
 
-1NF Analysis:
+**1NF Analysis**:
 All the entities were analyzed to check if they had to be normalized. After detailed analysis, it
 was observed that the entities were already in 1NF as the attributes of all the entities were
 functionally dependent on the primary key. The datasets were further analyzed to check if there
